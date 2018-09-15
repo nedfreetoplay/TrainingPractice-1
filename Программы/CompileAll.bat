@@ -1,0 +1,6 @@
+pyinstaller --onedir --onefile --name=ImageCollector "ImageCollector.py"
+pyinstaller --onedir --onefile --name=ImageCollectorBad "ImageCollectorBad.py"
+pyinstaller --onedir --onefile --name=ImageDownloader "ImageDownloader.py"
+pyinstaller --onedir --onefile --name=RGBToGray "RGBToGray.py"
+pyinstaller --onedir --onefile --name=Test "Test.py"
+pyinstaller --onedir --onefile --name=WoodDetection "WoodDetection.py"

@@ -1,0 +1,2 @@
+D:\opencv\build\x64\vc15\bin\opencv_traincascade.exe -data haarcascade -vec samples.vec -bg Bad.dat -numStages 16 -minhitrate 0.999 -maxFalseAlarmRate 0.5 -numPos 400 -numNeg 900 -w 20 -h 20 -mode ALL -precalcValBufSize 7168 -precalcIdxBufSize 7168
+PAUSE
